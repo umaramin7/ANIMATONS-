@@ -19,7 +19,7 @@ key-press-detector/
 🛠️ Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/key-press-detector.git
+bashgit clone https://github.com/umaramin7/key-press-detector.git
 
 Navigate to project directory
 bashcd key-press-detector
